@@ -1,9 +1,27 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14">
   <diagram name="Halaman-1" id="5Qf-4lTOE4GBADe7E6rV">
-    <mxGraphModel>
+    <mxGraphModel dx="1055" dy="363" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="MP9mxbraPtdaRK0l7hvN-1" value="Login Pada Alamat Website&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="-392" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MP9mxbraPtdaRK0l7hvN-3" value="Masukkan Username dan Password&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="-211" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MP9mxbraPtdaRK0l7hvN-4" value="Masukkan Nomor Authentikasi&amp;nbsp;&lt;div&gt;Captcha&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="-371" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MP9mxbraPtdaRK0l7hvN-5" value="Masukkan kode OTP Authorisasi Akun" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="-331" y="242" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MP9mxbraPtdaRK0l7hvN-6" value="Tekan Tombol Login&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="-283" y="131" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MP9mxbraPtdaRK0l7hvN-7" value="Berhasil Masuk Halaman Website&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="143" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
